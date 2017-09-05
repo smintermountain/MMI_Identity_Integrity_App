@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="e99941454f380340af76d0af0310c7bc" sys_domain="global" table="x_inthe_mmi_adoption" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>tkaneko</sys_created_by>
+            <sys_created_on>2017-08-23 16:56:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>219941454f380340af76d0af0310c7bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_inthe_mmi_adoption" name="x_inthe_mmi_adoption" sys_domain="global" view="Default view">e99941454f380340af76d0af0310c7bc</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_inthe_mmi_adoption" sys_domain="global" view="Default view">b77b78c94ff40340af76d0af0310c746</sys_ui_section>
+            <sys_updated_by>tkaneko</sys_updated_by>
+            <sys_updated_on>2017-08-23 16:56:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_inthe_mmi_adoption</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>tkaneko</sys_created_by>
+            <sys_created_on>2017-08-23 16:56:21</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e99941454f380340af76d0af0310c7bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_inthe_mmi_adoption</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="MMI Identity Integrity" source="x_inthe_mmi">34d0cb584f184300f5f3d49f0310c793</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="MMI Identity Integrity">34d0cb584f184300f5f3d49f0310c793</sys_scope>
+            <sys_update_name>sys_ui_form_sections_e99941454f380340af76d0af0310c7bc</sys_update_name>
+            <sys_updated_by>tkaneko</sys_updated_by>
+            <sys_updated_on>2017-08-23 16:56:21</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

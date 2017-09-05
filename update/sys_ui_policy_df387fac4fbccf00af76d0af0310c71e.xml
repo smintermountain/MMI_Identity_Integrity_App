@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conditions table="x_inthe_mmi_demographics">u_var_type=DOD^EQ<item endquery="false" field="u_var_type" goto="false" newquery="false" operator="=" or="false" value="DOD"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>300</order>
+        <reverse_if_false>false</reverse_if_false>
+        <run_scripts>true</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+	
+}	]]></script_true>
+        <set_values/>
+        <short_description>(IHC) Type of Request is DOD</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>tkaneko</sys_created_by>
+        <sys_created_on>2017-08-22 16:22:28</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>df387fac4fbccf00af76d0af0310c71e</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>(IHC) Type of Request is DOD</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MMI Identity Integrity" source="x_inthe_mmi">34d0cb584f184300f5f3d49f0310c793</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="MMI Identity Integrity">34d0cb584f184300f5f3d49f0310c793</sys_scope>
+        <sys_update_name>sys_ui_policy_df387fac4fbccf00af76d0af0310c71e</sys_update_name>
+        <sys_updated_by>tkaneko</sys_updated_by>
+        <sys_updated_on>2017-08-22 21:33:58</sys_updated_on>
+        <table>x_inthe_mmi_demographics</table>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_ui_policy>
+</record_update>

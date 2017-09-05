@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="task" label="Adoption" max_length="40" name="x_inthe_mmi_adoption" sizeclass="3" type="collection">
+        <element label="Child's Date of Birth" max_length="40" name="u_child_date_of_birth" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Guarantor Last Name" max_length="40" name="u_guarantor_last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Adoptive First Name" max_length="40" name="u_var_adoptive_first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Adoptive Last Name" max_length="40" name="u_var_adoptive_last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Adoptive Middle Name" max_length="40" name="u_var_adoptive_middle_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Birth EMPI(s) Number" max_length="255" name="u_var_birth_empis_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Birth EMPI/MRN Number" max_length="40" name="u_var_birth_empi_mrn_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Birth First Name" max_length="40" name="u_var_birth_first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Birth Last Name" max_length="40" name="u_var_birth_last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Birth Middle Name" max_length="40" name="u_var_birth_middle_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Guarantor First Name" max_length="40" name="u_var_guarantor_first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Is Patient currently in-house at any Intermountain Facility?" max_length="40" name="u_var_in_house_at_facility" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Is there outstanding billing" max_length="40" name="u_var_outstanding_billing_exists" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Reference Number" max_length="80" name="u_var_reference_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Relationship to Child" max_length="40" name="u_var_relationship_to_child" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Representative First Name" max_length="40" name="u_var_representative_first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Representative Last Name" max_length="40" name="u_var_representative_last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Representative Middle Name" max_length="40" name="u_var_representative_middle_name" type="string"/>
+        <element label="Requested For" max_length="32" name="u_var_requested_for" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="u_var_requested_for"/>
+        </index>
+    </element>
+</database>

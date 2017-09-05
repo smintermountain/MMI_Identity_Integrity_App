@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>active</field>
+        <global>true</global>
+        <messages/>
+        <name>(IHC) Show Field Messages</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   g_form.showFieldMsg('u_var_unique_identifier', 'Ex. EMPI/CMRN Number/SelectHealth MRN', 'info');
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>tkaneko</sys_created_by>
+        <sys_created_on>2017-08-22 15:53:58</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2161f3284fbccf00af76d0af0310c739</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>(IHC) Show Field Messages</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MMI Identity Integrity" source="x_inthe_mmi">34d0cb584f184300f5f3d49f0310c793</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="MMI Identity Integrity">34d0cb584f184300f5f3d49f0310c793</sys_scope>
+        <sys_update_name>sys_script_client_2161f3284fbccf00af76d0af0310c739</sys_update_name>
+        <sys_updated_by>tkaneko</sys_updated_by>
+        <sys_updated_on>2017-08-22 15:53:58</sys_updated_on>
+        <table>x_inthe_mmi_demographics</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

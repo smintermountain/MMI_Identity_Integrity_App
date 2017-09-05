@@ -6,7 +6,9 @@
         <assessment/>
         <content_page/>
         <device_type/>
-        <filter/>
+        <filter table="x_inthe_mmi_demographics">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
         <hint/>
         <homepage/>
         <image/>
@@ -15,7 +17,7 @@
         <mobile_title>Demographics</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_inthe_mmi_demographics</name>
-        <order/>
+        <order>5100</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -29,8 +31,8 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>d2d08fd84f184300f5f3d49f0310c70a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Demographics</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Open Demographics Requests</sys_name>
         <sys_overrides/>
         <sys_package display_value="MMI Identity Integrity" source="x_inthe_mmi">34d0cb584f184300f5f3d49f0310c793</sys_package>
         <sys_policy/>
@@ -38,9 +40,9 @@
         <sys_scope display_value="MMI Identity Integrity">34d0cb584f184300f5f3d49f0310c793</sys_scope>
         <sys_update_name>sys_app_module_d2d08fd84f184300f5f3d49f0310c70a</sys_update_name>
         <sys_updated_by>tkaneko</sys_updated_by>
-        <sys_updated_on>2017-07-27 21:10:36</sys_updated_on>
+        <sys_updated_on>2017-08-23 21:29:56</sys_updated_on>
         <timeline_page/>
-        <title>Demographics</title>
+        <title>Open Demographics Requests</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

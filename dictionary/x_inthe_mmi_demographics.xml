@@ -1,4 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element attributes="live_feed=true" extends="task" label="Demographics" max_length="40" name="x_inthe_mmi_demographics" type="collection"/>
+    <element attributes="live_feed=true" audit="true" extends="task" label="Demographics" max_length="40" name="x_inthe_mmi_demographics" sizeclass="13" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Select Action Needed" max_length="40" name="u_var_action_needed" type="string">
+            <choice>
+                <element label="Name Change" sequence="0" value="Name Change"/>
+                <element label="Date of Birth Update" sequence="1" value="Date of Birth Update"/>
+                <element label="Address Modification" sequence="2" value="Address Modification"/>
+                <element label="Phone Number Update" sequence="3" value="Phone Number Update"/>
+                <element label="Gender" sequence="4" value="Gender"/>
+                <element label="SSN" sequence="5" value="SSN"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Additional Comments" max_length="4000" name="u_var_additional_comments" type="string"/>
+        <element label="Date of Birth" max_length="40" name="u_var_date_of_birth" type="glide_date"/>
+        <element label="Date of Death" max_length="40" name="u_var_date_of_death" type="glide_date"/>
+        <element label="From" max_length="40" name="u_var_from_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="From" max_length="255" name="u_var_from_string" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="255" name="u_var_name" type="string"/>
+        <element attributes="ref_contributions=lync_chat" label="Requested For" max_length="32" name="u_var_requested_for" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element label="To" max_length="40" name="u_var_to_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="To" max_length="255" name="u_var_to_string" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Type of Request" max_length="40" name="u_var_type" type="string">
+            <choice>
+                <element label="Demographics Update" sequence="0" value="Demographics Update"/>
+                <element label="DOD" sequence="1" value="DOD"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Unique Identifier" max_length="255" name="u_var_unique_identifier" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Update" max_length="255" name="u_var_update" type="string"/>
+        <index name="index">
+            <element name="u_var_requested_for"/>
+        </index>
+    </element>
 </database>

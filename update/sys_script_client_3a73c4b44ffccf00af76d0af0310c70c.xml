@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>Handle all dependent fields when Type of Request Value Changes</description>
+        <field>u_var_type</field>
+        <global>true</global>
+        <messages/>
+        <name>(IHC) Type of Request Changes</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+   if (isLoading) {
+      return;
+   }
+
+	if(newValue == '' || newValue == 'DOD'){
+		g_form.setValue('u_var_action_needed','');
+	}
+	//Clear out non-dependent fields
+	g_form.setValue('u_var_unique_identifier','');
+	
+	//Clear out DOD Fields if value changes
+	g_form.setValue('u_var_date_of_death','');
+	g_form.setValue('u_var_date_of_birth','');
+	g_form.setValue('u_var_name','');
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>tkaneko</sys_created_by>
+        <sys_created_on>2017-08-22 17:13:29</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3a73c4b44ffccf00af76d0af0310c70c</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>(IHC) Type of Request Changes</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MMI Identity Integrity" source="x_inthe_mmi">34d0cb584f184300f5f3d49f0310c793</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="MMI Identity Integrity">34d0cb584f184300f5f3d49f0310c793</sys_scope>
+        <sys_update_name>sys_script_client_3a73c4b44ffccf00af76d0af0310c70c</sys_update_name>
+        <sys_updated_by>tkaneko</sys_updated_by>
+        <sys_updated_on>2017-08-22 18:01:37</sys_updated_on>
+        <table>x_inthe_mmi_demographics</table>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

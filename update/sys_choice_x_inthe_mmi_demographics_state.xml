@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_inthe_mmi_demographics" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pending</label>
+            <language>en</language>
+            <name>x_inthe_mmi_demographics</name>
+            <sequence>0</sequence>
+            <sys_created_by>tkaneko</sys_created_by>
+            <sys_created_on>2017-08-23 17:36:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eaa251094f380340af76d0af0310c7f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tkaneko</sys_updated_by>
+            <sys_updated_on>2017-08-23 17:36:02</sys_updated_on>
+            <u_task/>
+            <value>-5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Open</label>
+            <language>en</language>
+            <name>x_inthe_mmi_demographics</name>
+            <sequence>1</sequence>
+            <sys_created_by>tkaneko</sys_created_by>
+            <sys_created_on>2017-08-23 17:36:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6aa251094f380340af76d0af0310c7f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tkaneko</sys_updated_by>
+            <sys_updated_on>2017-08-23 17:36:02</sys_updated_on>
+            <u_task/>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Work in Progress</label>
+            <language>en</language>
+            <name>x_inthe_mmi_demographics</name>
+            <sequence>2</sequence>
+            <sys_created_by>tkaneko</sys_created_by>
+            <sys_created_on>2017-08-23 17:36:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>76a251094f380340af76d0af0310c7f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tkaneko</sys_updated_by>
+            <sys_updated_on>2017-08-23 17:36:02</sys_updated_on>
+            <u_task/>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Awaiting Customer</label>
+            <language>en</language>
+            <name>x_inthe_mmi_demographics</name>
+            <sequence>3</sequence>
+            <sys_created_by>tkaneko</sys_created_by>
+            <sys_created_on>2017-08-23 17:36:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>72a251094f380340af76d0af0310c7f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tkaneko</sys_updated_by>
+            <sys_updated_on>2017-08-23 17:36:02</sys_updated_on>
+            <u_task/>
+            <value>16</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed Complete</label>
+            <language>en</language>
+            <name>x_inthe_mmi_demographics</name>
+            <sequence>4</sequence>
+            <sys_created_by>tkaneko</sys_created_by>
+            <sys_created_on>2017-08-23 17:36:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7ea251094f380340af76d0af0310c7f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tkaneko</sys_updated_by>
+            <sys_updated_on>2017-08-23 17:36:02</sys_updated_on>
+            <u_task/>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed Incomplete</label>
+            <language>en</language>
+            <name>x_inthe_mmi_demographics</name>
+            <sequence>5</sequence>
+            <sys_created_by>tkaneko</sys_created_by>
+            <sys_created_on>2017-08-23 17:36:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7aa251094f380340af76d0af0310c7f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tkaneko</sys_updated_by>
+            <sys_updated_on>2017-08-23 17:36:02</sys_updated_on>
+            <u_task/>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <name>x_inthe_mmi_demographics</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>tkaneko</sys_created_by>
+            <sys_created_on>2017-08-23 17:36:02</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>a6a251094f380340af76d0af0310c7f5</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="MMI Identity Integrity" source="x_inthe_mmi">34d0cb584f184300f5f3d49f0310c793</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="MMI Identity Integrity">34d0cb584f184300f5f3d49f0310c793</sys_scope>
+            <sys_update_name>sys_choice_x_inthe_mmi_demographics_state</sys_update_name>
+            <sys_updated_by>tkaneko</sys_updated_by>
+            <sys_updated_on>2017-08-23 17:36:02</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
