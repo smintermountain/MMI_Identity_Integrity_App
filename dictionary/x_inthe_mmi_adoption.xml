@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="task" label="Adoption" max_length="40" name="x_inthe_mmi_adoption" sizeclass="1" type="collection">
+    <element audit="true" extends="task" label="Adoption" max_length="40" name="x_inthe_mmi_adoption" sizeclass="2" type="collection">
         <element label="Child's Date of Birth" max_length="40" name="u_child_date_of_birth" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" label="Guarantor Last Name" max_length="40" name="u_guarantor_last_name" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Adoptive First Name" max_length="40" name="u_var_adoptive_first_name" type="string"/>

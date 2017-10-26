@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element attributes="live_feed=true" audit="true" extends="task" label="Demographics" max_length="40" name="x_inthe_mmi_demographics" sizeclass="20" type="collection">
+    <element attributes="live_feed=true" audit="true" extends="task" label="Demographics" max_length="40" name="x_inthe_mmi_demographics" sizeclass="21" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="1" label="Select Action Needed" max_length="40" name="u_var_action_needed" type="string">
             <choice>
                 <element label="Name Change" sequence="0" value="Name Change"/>
