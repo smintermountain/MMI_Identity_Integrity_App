@@ -7,7 +7,7 @@
         <sys_class_name>sys_ui_policy_action</sys_class_name>
         <sys_created_by>tkaneko</sys_created_by>
         <sys_created_on>2017-08-22 16:22:28</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>db387fac4fbccf00af76d0af0310c722</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>u_var_from_date</sys_name>

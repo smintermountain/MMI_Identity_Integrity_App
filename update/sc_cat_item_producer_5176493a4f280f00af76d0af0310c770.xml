@@ -20,7 +20,7 @@
         <icon/>
         <ignore_price>false</ignore_price>
         <image/>
-        <list_price>0</list_price>
+        <list_price>0.00</list_price>
         <location/>
         <meta/>
         <mobile_hide_price>false</mobile_hide_price>
@@ -63,7 +63,7 @@ current.short_description = shortDescription;
         <sys_class_name>sc_cat_item_producer</sys_class_name>
         <sys_created_by>tkaneko</sys_created_by>
         <sys_created_on>2017-08-16 16:57:53</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>5176493a4f280f00af76d0af0310c770</sys_id>
         <sys_mod_count>13</sys_mod_count>
         <sys_name>MMI Identity Integrity Demographics Request</sys_name>

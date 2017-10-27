@@ -6,7 +6,7 @@
         <sys_class_name>io_set_item</sys_class_name>
         <sys_created_by>tkaneko</sys_created_by>
         <sys_created_on>2017-08-16 16:57:54</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>3bc6c53a4f280f00af76d0af0310c7ba</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>add_attachment_button_global_footer.MMI Identity Integrity Demographics Request</sys_name>

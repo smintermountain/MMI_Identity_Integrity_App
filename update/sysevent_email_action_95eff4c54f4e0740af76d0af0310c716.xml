@@ -52,7 +52,7 @@
         <sys_class_name>sysevent_email_action</sys_class_name>
         <sys_created_by>tkaneko</sys_created_by>
         <sys_created_on>2017-10-24 19:32:31</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>95eff4c54f4e0740af76d0af0310c716</sys_id>

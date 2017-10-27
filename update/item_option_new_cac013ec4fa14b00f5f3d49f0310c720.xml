@@ -57,7 +57,7 @@
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>tkaneko</sys_created_by>
         <sys_created_on>2017-09-28 20:17:40</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>cac013ec4fa14b00f5f3d49f0310c720</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>PHI Information</sys_name>

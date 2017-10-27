@@ -6,7 +6,7 @@
         <sys_class_name>sc_cat_item_category</sys_class_name>
         <sys_created_by>tkaneko</sys_created_by>
         <sys_created_on>2017-08-16 17:31:54</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>7d9e01be4f280f00af76d0af0310c72e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Help2.MMI Identity Integrity Demographics Request</sys_name>

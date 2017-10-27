@@ -57,7 +57,7 @@
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>tkaneko</sys_created_by>
         <sys_created_on>2017-08-22 20:18:44</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>c71ea0b84f300340af76d0af0310c737</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>demographics_details</sys_name>

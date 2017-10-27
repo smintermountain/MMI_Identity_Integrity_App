@@ -8,7 +8,7 @@
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>tkaneko</sys_created_by>
         <sys_created_on>2017-08-22 20:14:56</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>166d2c784f300340af76d0af0310c734</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Gender</sys_name>

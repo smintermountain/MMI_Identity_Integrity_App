@@ -9,7 +9,7 @@
         <sys_class_name>catalog_ui_policy_action</sys_class_name>
         <sys_created_by>tkaneko</sys_created_by>
         <sys_created_on>2017-08-22 20:48:18</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>2515b0fc4f300340af76d0af0310c703</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>u_var_date_of_death</sys_name>

@@ -57,7 +57,7 @@
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>tkaneko</sys_created_by>
         <sys_created_on>2017-08-23 18:19:42</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>ca6c158d4f380340af76d0af0310c76f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Child's Legal Representative/Guarantor</sys_name>

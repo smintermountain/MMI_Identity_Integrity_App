@@ -47,7 +47,7 @@
         <sys_created_by>tkaneko</sys_created_by>
         <sys_created_on>2017-08-22 15:09:14</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>e277ebe04fbccf00af76d0af0310c7e5</sys_id>
+        <sys_id>4a92e7bd4f4e0b40f5f3d49f0310c783</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Unique Identifier</sys_name>
         <sys_package display_value="MMI Identity Integrity" source="x_inthe_mmi">34d0cb584f184300f5f3d49f0310c793</sys_package>
@@ -55,8 +55,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="MMI Identity Integrity">34d0cb584f184300f5f3d49f0310c793</sys_scope>
         <sys_update_name>sys_dictionary_x_inthe_mmi_demographics_u_var_unique_identifier</sys_update_name>
-        <sys_updated_by>tkaneko</sys_updated_by>
-        <sys_updated_on>2017-08-22 15:09:14</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-10-27 15:19:08</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

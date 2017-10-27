@@ -57,7 +57,7 @@
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>tkaneko</sys_created_by>
         <sys_created_on>2017-08-22 20:27:17</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>eb2078f84f300340af76d0af0310c78e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>DOD Information</sys_name>

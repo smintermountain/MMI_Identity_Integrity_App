@@ -2,23 +2,23 @@
 <record_update table="ua_table_licensing_config">
     <ua_table_licensing_config action="INSERT_OR_UPDATE">
         <is_fulfillment>true</is_fulfillment>
-        <name>x_inthe_mmi_demographics</name>
-        <owner_condition table="x_inthe_mmi_demographics">opened_by=javascript:gs.getUserID()^EQ<item endquery="false" field="opened_by" goto="false" newquery="false" operator="=" or="false" value="javascript:gs.getUserID()"/>
+        <name>x_inthe_mmi_adoption</name>
+        <owner_condition table="x_inthe_mmi_adoption">opened_by=javascript:gs.getUserID()^EQ<item endquery="false" field="opened_by" goto="false" newquery="false" operator="=" or="false" value="javascript:gs.getUserID()"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </owner_condition>
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>tkaneko</sys_created_by>
-        <sys_created_on>2017-07-27 21:10:35</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>4ed04fd84f184300f5f3d49f0310c7e0</sys_id>
+        <sys_created_on>2017-08-23 15:50:22</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>aa92e7bd4f4e0b40f5f3d49f0310c7a8</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_inthe_mmi_demographics</sys_name>
+        <sys_name>x_inthe_mmi_adoption</sys_name>
         <sys_package display_value="MMI Identity Integrity" source="x_inthe_mmi">34d0cb584f184300f5f3d49f0310c793</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="MMI Identity Integrity">34d0cb584f184300f5f3d49f0310c793</sys_scope>
-        <sys_update_name>ua_table_licensing_config_4ed04fd84f184300f5f3d49f0310c7e0</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_aa92e7bd4f4e0b40f5f3d49f0310c7a8</sys_update_name>
         <sys_updated_by>tkaneko</sys_updated_by>
-        <sys_updated_on>2017-07-27 21:10:35</sys_updated_on>
+        <sys_updated_on>2017-08-23 15:50:22</sys_updated_on>
     </ua_table_licensing_config>
 </record_update>

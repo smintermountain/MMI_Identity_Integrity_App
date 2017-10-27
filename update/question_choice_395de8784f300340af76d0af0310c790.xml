@@ -8,7 +8,7 @@
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>tkaneko</sys_created_by>
         <sys_created_on>2017-08-22 20:14:39</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>395de8784f300340af76d0af0310c790</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Phone Number Update</sys_name>

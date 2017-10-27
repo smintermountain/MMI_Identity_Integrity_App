@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>tkaneko</sys_created_by>
             <sys_created_on>2017-08-23 21:11:12</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>2ee38ac14fb80340af76d0af0310c7d5</sys_id>
             <sys_mod_count>1</sys_mod_count>
             <sys_name>Is Patient currently in-house at any Intermountain Facility?</sys_name>

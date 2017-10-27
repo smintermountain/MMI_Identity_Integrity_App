@@ -26,7 +26,7 @@
         <sys_class_name>sys_ui_policy</sys_class_name>
         <sys_created_by>tkaneko</sys_created_by>
         <sys_created_on>2017-10-23 20:36:25</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>97d44cf44fca8740f5f3d49f0310c734</sys_id>

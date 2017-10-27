@@ -12,7 +12,7 @@
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>tkaneko</sys_created_by>
         <sys_created_on>2017-08-23 15:50:20</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>527af0494ff40340af76d0af0310c786</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_inthe_mmi_adoption</sys_name>

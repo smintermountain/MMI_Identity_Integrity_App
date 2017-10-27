@@ -17,7 +17,7 @@
         <icon/>
         <ignore_price>false</ignore_price>
         <image/>
-        <list_price>0</list_price>
+        <list_price>0.00</list_price>
         <location/>
         <meta/>
         <mobile_hide_price>false</mobile_hide_price>
@@ -52,7 +52,7 @@ current.short_description = "Self-Service - Adoption Worksheet";]]></script>
         <sys_class_name>sc_cat_item_producer</sys_class_name>
         <sys_created_by>tkaneko</sys_created_by>
         <sys_created_on>2017-08-23 17:42:03</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>27931d494f380340af76d0af0310c72a</sys_id>
         <sys_mod_count>4</sys_mod_count>
         <sys_name>Adoption Worksheet</sys_name>

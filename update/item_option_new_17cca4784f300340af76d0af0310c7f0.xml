@@ -57,7 +57,7 @@
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>tkaneko</sys_created_by>
         <sys_created_on>2017-08-22 20:12:45</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>17cca4784f300340af76d0af0310c7f0</sys_id>
         <sys_mod_count>5</sys_mod_count>
         <sys_name>Select Action Needed</sys_name>

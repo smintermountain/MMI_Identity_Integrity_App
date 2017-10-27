@@ -328,7 +328,7 @@
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>tkaneko</sys_created_by>
             <sys_created_on>2017-08-22 17:43:47</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>eeda00b84ffccf00af76d0af0310c726</sys_id>
