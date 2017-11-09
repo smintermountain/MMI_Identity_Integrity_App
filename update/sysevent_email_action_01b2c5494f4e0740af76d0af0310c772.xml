@@ -6,6 +6,7 @@
         <active>true</active>
         <advanced_condition/>
         <affected_field_on_event/>
+        <category/>
         <collection>x_inthe_mmi_demographics</collection>
         <condition table="x_inthe_mmi_demographics">work_notesVALCHANGES^assigned_toISNOTEMPTY^EQ<item endquery="false" field="work_notes" goto="false" newquery="false" operator="VALCHANGES" or="false" value=""/>
             <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>

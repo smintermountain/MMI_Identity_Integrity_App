@@ -6,6 +6,7 @@
         <active>true</active>
         <advanced_condition/>
         <affected_field_on_event/>
+        <category/>
         <collection>x_inthe_mmi_demographics</collection>
         <condition table="x_inthe_mmi_demographics">stateCHANGESTO3^ORstateCHANGESTO4^EQ<item endquery="false" field="state" goto="false" newquery="false" operator="CHANGESTO" or="false" value="3"/>
             <item endquery="false" field="state" goto="false" newquery="false" operator="CHANGESTO" or="true" value="4"/>

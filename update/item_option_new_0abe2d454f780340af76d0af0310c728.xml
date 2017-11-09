@@ -18,6 +18,7 @@
         <do_not_select_first>false</do_not_select_first>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
+        <example_text/>
         <field/>
         <global>false</global>
         <help_tag>More information</help_tag>
@@ -52,6 +53,7 @@
         <scale_max>5</scale_max>
         <scale_min>0</scale_min>
         <show_help>false</show_help>
+        <show_help_on_load>false</show_help_on_load>
         <sp_widget/>
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
@@ -76,6 +78,7 @@
         <use_reference_qualifier>simple</use_reference_qualifier>
         <variable_name/>
         <variable_set/>
+        <variable_width/>
         <visibility>1</visibility>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
@@ -84,4 +87,39 @@
         <write_roles/>
     </item_option_new>
     <sys_translated_text action="delete_multiple" query="documentkey=0abe2d454f780340af76d0af0310c728"/>
+    <fx_price action="delete_multiple" query="id=0abe2d454f780340af76d0af0310c728"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price_if_checked</field>
+        <id>0abe2d454f780340af76d0af0310c728</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>tkaneko</sys_created_by>
+        <sys_created_on>2017-11-09 20:28:31</sys_created_on>
+        <sys_id>b5262bca4f9e0740af76d0af0310c759</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>tkaneko</sys_updated_by>
+        <sys_updated_on>2017-11-09 20:28:31</sys_updated_on>
+        <table>item_option_new</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_price_if_checked</field>
+        <id>0abe2d454f780340af76d0af0310c728</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>tkaneko</sys_created_by>
+        <sys_created_on>2017-11-09 20:28:31</sys_created_on>
+        <sys_id>71262bca4f9e0740af76d0af0310c75a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>tkaneko</sys_updated_by>
+        <sys_updated_on>2017-11-09 20:28:31</sys_updated_on>
+        <table>item_option_new</table>
+        <type>calculated</type>
+    </fx_price>
 </record_update>

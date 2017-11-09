@@ -6,6 +6,7 @@
         <active>true</active>
         <advanced_condition/>
         <affected_field_on_event/>
+        <category/>
         <collection>x_inthe_mmi_demographics</collection>
         <condition/>
         <content_type>text/html</content_type>

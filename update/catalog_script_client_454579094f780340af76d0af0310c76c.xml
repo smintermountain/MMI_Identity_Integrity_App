@@ -6,6 +6,7 @@
         <applies_extended>false</applies_extended>
         <applies_req_item>false</applies_req_item>
         <applies_sc_task>false</applies_sc_task>
+        <applies_target_record>false</applies_target_record>
         <applies_to>item</applies_to>
         <cat_item display_value="Adoption Worksheet">27931d494f380340af76d0af0310c72a</cat_item>
         <cat_variable/>

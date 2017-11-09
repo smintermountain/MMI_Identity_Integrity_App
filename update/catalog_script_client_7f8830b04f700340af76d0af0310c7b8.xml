@@ -6,6 +6,7 @@
         <applies_extended>false</applies_extended>
         <applies_req_item>false</applies_req_item>
         <applies_sc_task>false</applies_sc_task>
+        <applies_target_record>false</applies_target_record>
         <applies_to>item</applies_to>
         <cat_item display_value="MMI Identity Integrity Demographics Request">5176493a4f280f00af76d0af0310c770</cat_item>
         <cat_variable>IO:f4a9a0f44f300340af76d0af0310c7d3</cat_variable>
