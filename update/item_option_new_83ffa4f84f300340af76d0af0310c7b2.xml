@@ -85,6 +85,9 @@
         <visible_standalone>true</visible_standalone>
         <visible_summary>true</visible_summary>
         <write_roles/>
+        <x_yala_yds_additional_display_fields/>
+        <x_yala_yds_additional_display_fields_list/>
+        <x_yala_yds_search_all_display_fields>false</x_yala_yds_search_all_display_fields>
     </item_option_new>
     <sys_translated_text action="delete_multiple" query="documentkey=83ffa4f84f300340af76d0af0310c7b2"/>
     <fx_price action="delete_multiple" query="id=83ffa4f84f300340af76d0af0310c7b2"/>

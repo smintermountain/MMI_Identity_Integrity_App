@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="MMI Identity Integrity Demographics Request">5176493a4f280f00af76d0af0310c770</sc_cat_item>
+        <sc_category display_value="MMI Identity Integrity">398bb10d4f780340af76d0af0310c76e</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>tkaneko</sys_created_by>
+        <sys_created_on>2017-11-09 20:22:28</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>99c42fc24f5a4308a27160001310c739</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MMI Identity Integrity.MMI Identity Integrity Demographics Request</sys_name>
+        <sys_package display_value="MMI Identity Integrity" source="x_inthe_mmi">34d0cb584f184300f5f3d49f0310c793</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="MMI Identity Integrity">34d0cb584f184300f5f3d49f0310c793</sys_scope>
+        <sys_update_name>sc_cat_item_category_99c42fc24f5a4308a27160001310c739</sys_update_name>
+        <sys_updated_by>tkaneko</sys_updated_by>
+        <sys_updated_on>2017-11-09 20:22:28</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

@@ -43,39 +43,30 @@
         <recurring_frequency/>
         <recurring_price>0</recurring_price>
         <redirect_url/>
-        <roles/>
+        <roles>snc_internal</roles>
         <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
         <sc_ic_item_staging/>
         <sc_ic_version/>
         <script><![CDATA[//Set Fields on new record
 current.opened_by = producer.requested_by;
-current.u_var_requested_for = producer.requested_for;
-var shortDescription = "Self-Service - " + producer.u_var_type;
-
-if(producer.u_var_type == 'Demographics Update'){
-	shortDescription += ": " + producer.u_var_action_needed;
-}
-
-current.short_description = shortDescription;
-
-]]></script>
+current.u_var_requested_for = producer.requested_for;]]></script>
         <short_description>Modify or Update Demographics</short_description>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
         <sys_class_name>sc_cat_item_producer</sys_class_name>
         <sys_created_by>tkaneko</sys_created_by>
         <sys_created_on>2017-08-16 16:57:53</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
+        <sys_customer_update>true</sys_customer_update>
         <sys_id>5176493a4f280f00af76d0af0310c770</sys_id>
-        <sys_mod_count>13</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_name>MMI Identity Integrity Demographics Request</sys_name>
         <sys_package display_value="MMI Identity Integrity" source="x_inthe_mmi">34d0cb584f184300f5f3d49f0310c793</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="MMI Identity Integrity">34d0cb584f184300f5f3d49f0310c793</sys_scope>
         <sys_update_name>sc_cat_item_producer_5176493a4f280f00af76d0af0310c770</sys_update_name>
-        <sys_updated_by>tkaneko</sys_updated_by>
-        <sys_updated_on>2017-10-23 20:41:03</sys_updated_on>
+        <sys_updated_by>crnelson</sys_updated_by>
+        <sys_updated_on>2017-11-09 18:20:07</sys_updated_on>
         <table_name>x_inthe_mmi_demographics</table_name>
         <template/>
         <type>item</type>
@@ -86,7 +77,7 @@ current.short_description = shortDescription;
         <u_default_project>false</u_default_project>
         <u_fulfillment_workflow/>
         <u_manager_approval>false</u_manager_approval>
-        <u_owner/>
+        <u_owner display_value="Robyn Hansen">0903fccf4f384600af76d0af0310c779</u_owner>
         <u_project_to_default/>
         <u_service_line/>
         <u_service_line_list/>
@@ -98,6 +89,10 @@ current.short_description = shortDescription;
         <visible_guide>true</visible_guide>
         <visible_standalone>true</visible_standalone>
         <workflow display_value="(CWT) Master RITM Workflow">9b22f9d74f8ec200af76d0af0310c745</workflow>
+        <x_yala_yds_allow_large_quantities>false</x_yala_yds_allow_large_quantities>
+        <x_yala_yds_failsafe_sizing>false</x_yala_yds_failsafe_sizing>
+        <x_yala_yds_render_in_iframe>false</x_yala_yds_render_in_iframe>
+        <x_yala_yds_resize_width>false</x_yala_yds_resize_width>
     </sc_cat_item_producer>
     <sys_translated_text action="delete_multiple" query="documentkey=5176493a4f280f00af76d0af0310c770"/>
     <fx_price action="delete_multiple" query="id=5176493a4f280f00af76d0af0310c770"/>

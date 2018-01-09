@@ -4,152 +4,152 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>name</element>
-            <list_id display_value="item_option_new" element="NULL" name="item_option_new" parent="sc_cat_item_producer" relationship="NULL" sys_domain="global" view="Default view">f322ef864f9e0740af76d0af0310c7bc</list_id>
+            <list_id display_value="item_option_new" element="NULL" name="item_option_new" parent="sc_cat_item_producer" relationship="NULL" sys_domain="global" view="Default view">6ea4e3c24f5a4308a27160001310c7ef</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>tkaneko</sys_created_by>
-            <sys_created_on>2017-11-09 20:11:12</sys_created_on>
-            <sys_id>4832ef864f9e0740af76d0af0310c7bd</sys_id>
+            <sys_created_on>2017-11-09 20:22:00</sys_created_on>
+            <sys_id>62a4e3c24f5a4308a27160001310c7f0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>tkaneko</sys_updated_by>
-            <sys_updated_on>2017-11-09 20:11:12</sys_updated_on>
+            <sys_updated_on>2017-11-09 20:22:00</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>active</element>
-            <list_id display_value="item_option_new" element="NULL" name="item_option_new" parent="sc_cat_item_producer" relationship="NULL" sys_domain="global" view="Default view">f322ef864f9e0740af76d0af0310c7bc</list_id>
+            <list_id display_value="item_option_new" element="NULL" name="item_option_new" parent="sc_cat_item_producer" relationship="NULL" sys_domain="global" view="Default view">6ea4e3c24f5a4308a27160001310c7ef</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>tkaneko</sys_created_by>
-            <sys_created_on>2017-11-09 20:11:12</sys_created_on>
-            <sys_id>4032ef864f9e0740af76d0af0310c7be</sys_id>
+            <sys_created_on>2017-11-09 20:22:00</sys_created_on>
+            <sys_id>e2a4e3c24f5a4308a27160001310c7f0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>tkaneko</sys_updated_by>
-            <sys_updated_on>2017-11-09 20:11:12</sys_updated_on>
+            <sys_updated_on>2017-11-09 20:22:00</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>attributes</element>
-            <list_id display_value="item_option_new" element="NULL" name="item_option_new" parent="sc_cat_item_producer" relationship="NULL" sys_domain="global" view="Default view">f322ef864f9e0740af76d0af0310c7bc</list_id>
+            <list_id display_value="item_option_new" element="NULL" name="item_option_new" parent="sc_cat_item_producer" relationship="NULL" sys_domain="global" view="Default view">6ea4e3c24f5a4308a27160001310c7ef</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>tkaneko</sys_created_by>
-            <sys_created_on>2017-11-09 20:11:12</sys_created_on>
-            <sys_id>c032ef864f9e0740af76d0af0310c7be</sys_id>
+            <sys_created_on>2017-11-09 20:22:00</sys_created_on>
+            <sys_id>66a4e3c24f5a4308a27160001310c7f0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>tkaneko</sys_updated_by>
-            <sys_updated_on>2017-11-09 20:11:12</sys_updated_on>
+            <sys_updated_on>2017-11-09 20:22:00</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>cat_item</element>
-            <list_id display_value="item_option_new" element="NULL" name="item_option_new" parent="sc_cat_item_producer" relationship="NULL" sys_domain="global" view="Default view">f322ef864f9e0740af76d0af0310c7bc</list_id>
+            <list_id display_value="item_option_new" element="NULL" name="item_option_new" parent="sc_cat_item_producer" relationship="NULL" sys_domain="global" view="Default view">6ea4e3c24f5a4308a27160001310c7ef</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>tkaneko</sys_created_by>
-            <sys_created_on>2017-11-09 20:11:12</sys_created_on>
-            <sys_id>4432ef864f9e0740af76d0af0310c7be</sys_id>
+            <sys_created_on>2017-11-09 20:22:00</sys_created_on>
+            <sys_id>e6a4e3c24f5a4308a27160001310c7f0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>tkaneko</sys_updated_by>
-            <sys_updated_on>2017-11-09 20:11:12</sys_updated_on>
+            <sys_updated_on>2017-11-09 20:22:00</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>category</element>
-            <list_id display_value="item_option_new" element="NULL" name="item_option_new" parent="sc_cat_item_producer" relationship="NULL" sys_domain="global" view="Default view">f322ef864f9e0740af76d0af0310c7bc</list_id>
+            <list_id display_value="item_option_new" element="NULL" name="item_option_new" parent="sc_cat_item_producer" relationship="NULL" sys_domain="global" view="Default view">6ea4e3c24f5a4308a27160001310c7ef</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>tkaneko</sys_created_by>
-            <sys_created_on>2017-11-09 20:11:12</sys_created_on>
-            <sys_id>c432ef864f9e0740af76d0af0310c7be</sys_id>
+            <sys_created_on>2017-11-09 20:22:00</sys_created_on>
+            <sys_id>6aa4e3c24f5a4308a27160001310c7f0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>tkaneko</sys_updated_by>
-            <sys_updated_on>2017-11-09 20:11:12</sys_updated_on>
+            <sys_updated_on>2017-11-09 20:22:00</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>choice_direction</element>
-            <list_id display_value="item_option_new" element="NULL" name="item_option_new" parent="sc_cat_item_producer" relationship="NULL" sys_domain="global" view="Default view">f322ef864f9e0740af76d0af0310c7bc</list_id>
+            <list_id display_value="item_option_new" element="NULL" name="item_option_new" parent="sc_cat_item_producer" relationship="NULL" sys_domain="global" view="Default view">6ea4e3c24f5a4308a27160001310c7ef</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>tkaneko</sys_created_by>
-            <sys_created_on>2017-11-09 20:11:12</sys_created_on>
-            <sys_id>4832ef864f9e0740af76d0af0310c7be</sys_id>
+            <sys_created_on>2017-11-09 20:22:00</sys_created_on>
+            <sys_id>eaa4e3c24f5a4308a27160001310c7f0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>tkaneko</sys_updated_by>
-            <sys_updated_on>2017-11-09 20:11:12</sys_updated_on>
+            <sys_updated_on>2017-11-09 20:22:00</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>choice_field</element>
-            <list_id display_value="item_option_new" element="NULL" name="item_option_new" parent="sc_cat_item_producer" relationship="NULL" sys_domain="global" view="Default view">f322ef864f9e0740af76d0af0310c7bc</list_id>
+            <list_id display_value="item_option_new" element="NULL" name="item_option_new" parent="sc_cat_item_producer" relationship="NULL" sys_domain="global" view="Default view">6ea4e3c24f5a4308a27160001310c7ef</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
             <sum>false</sum>
             <sys_created_by>tkaneko</sys_created_by>
-            <sys_created_on>2017-11-09 20:11:12</sys_created_on>
-            <sys_id>c832ef864f9e0740af76d0af0310c7be</sys_id>
+            <sys_created_on>2017-11-09 20:22:00</sys_created_on>
+            <sys_id>6ea4e3c24f5a4308a27160001310c7f0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>tkaneko</sys_updated_by>
-            <sys_updated_on>2017-11-09 20:11:12</sys_updated_on>
+            <sys_updated_on>2017-11-09 20:22:00</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>choice_table</element>
-            <list_id display_value="item_option_new" element="NULL" name="item_option_new" parent="sc_cat_item_producer" relationship="NULL" sys_domain="global" view="Default view">f322ef864f9e0740af76d0af0310c7bc</list_id>
+            <list_id display_value="item_option_new" element="NULL" name="item_option_new" parent="sc_cat_item_producer" relationship="NULL" sys_domain="global" view="Default view">6ea4e3c24f5a4308a27160001310c7ef</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>7</position>
             <sum>false</sum>
             <sys_created_by>tkaneko</sys_created_by>
-            <sys_created_on>2017-11-09 20:11:12</sys_created_on>
-            <sys_id>4c32ef864f9e0740af76d0af0310c7be</sys_id>
+            <sys_created_on>2017-11-09 20:22:00</sys_created_on>
+            <sys_id>eea4e3c24f5a4308a27160001310c7f0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>tkaneko</sys_updated_by>
-            <sys_updated_on>2017-11-09 20:11:12</sys_updated_on>
+            <sys_updated_on>2017-11-09 20:22:00</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>create_roles</element>
-            <list_id display_value="item_option_new" element="NULL" name="item_option_new" parent="sc_cat_item_producer" relationship="NULL" sys_domain="global" view="Default view">f322ef864f9e0740af76d0af0310c7bc</list_id>
+            <list_id display_value="item_option_new" element="NULL" name="item_option_new" parent="sc_cat_item_producer" relationship="NULL" sys_domain="global" view="Default view">6ea4e3c24f5a4308a27160001310c7ef</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>8</position>
             <sum>false</sum>
             <sys_created_by>tkaneko</sys_created_by>
-            <sys_created_on>2017-11-09 20:11:12</sys_created_on>
-            <sys_id>cc32ef864f9e0740af76d0af0310c7be</sys_id>
+            <sys_created_on>2017-11-09 20:22:00</sys_created_on>
+            <sys_id>62a4e3c24f5a4308a27160001310c7f1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>tkaneko</sys_updated_by>
-            <sys_updated_on>2017-11-09 20:11:12</sys_updated_on>
+            <sys_updated_on>2017-11-09 20:22:00</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>default_html_value</element>
-            <list_id display_value="item_option_new" element="NULL" name="item_option_new" parent="sc_cat_item_producer" relationship="NULL" sys_domain="global" view="Default view">f322ef864f9e0740af76d0af0310c7bc</list_id>
+            <list_id display_value="item_option_new" element="NULL" name="item_option_new" parent="sc_cat_item_producer" relationship="NULL" sys_domain="global" view="Default view">6ea4e3c24f5a4308a27160001310c7ef</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>9</position>
             <sum>false</sum>
             <sys_created_by>tkaneko</sys_created_by>
-            <sys_created_on>2017-11-09 20:11:12</sys_created_on>
-            <sys_id>4032ef864f9e0740af76d0af0310c7bf</sys_id>
+            <sys_created_on>2017-11-09 20:22:00</sys_created_on>
+            <sys_id>e2a4e3c24f5a4308a27160001310c7f1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>tkaneko</sys_updated_by>
-            <sys_updated_on>2017-11-09 20:11:12</sys_updated_on>
+            <sys_updated_on>2017-11-09 20:22:00</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -167,7 +167,7 @@
             <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>4f0b78f04f700340af76d0af0310c701</sys_id>
+            <sys_id>66de977b4f4243c4a27160001310c739</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>item_option_new</sys_name>
             <sys_package display_value="MMI Identity Integrity" source="x_inthe_mmi">34d0cb584f184300f5f3d49f0310c793</sys_package>
